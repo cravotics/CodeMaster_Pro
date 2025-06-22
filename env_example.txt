@@ -1,0 +1,25 @@
+# CodeMaster Pro - API Configuration
+# Copy this file to .env and add your API keys
+
+# OpenAI API Key (for AI code assistance)
+# Get your free key at: https://platform.openai.com/api-keys
+# Free tier includes $5 credit for testing
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Anthropic API Key (alternative AI provider)
+# Get your free key at: https://console.anthropic.com/
+# Free tier includes $5 credit
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+
+# OpenWeatherMap API Key (for weather data)
+# Get your free key at: https://openweathermap.org/api
+# Free tier includes 1000 calls/day
+WEATHER_API_KEY=your_openweathermap_api_key_here
+
+# Google Fonts API Key (for font management)
+# Get your free key at: https://developers.google.com/fonts/docs/developer_api
+# Free tier includes 10,000 requests/day
+GOOGLE_FONTS_API_KEY=your_google_fonts_api_key_here
+
+# All APIs above are completely FREE for learning and development!
+# The application will work without API keys but with limited functionality 
