@@ -1,7 +1,19 @@
 # CodeMaster Pro - AI-Powered Development Environment
 
+![CodeMaster Pro - Main Interface](image.png)
+
+*🎨 Modern, cross-platform development environment with SQL learning, weather integration, and AI assistance*
+
 ## 🚀 Overview
 CodeMaster Pro is a comprehensive, cross-platform software development tool that combines AI agents, codebase management, weather integration, font styling, and SQL database functionality - all in one local application.
+
+## ✨ **Live Demo**
+The screenshot above shows CodeMaster Pro in action with:
+- 📚 **Interactive SQL Tutorial** - Learn SQL with real-time query execution
+- 🌤️ **Weather & Productivity** - Get coding recommendations based on weather
+- 💻 **Code Editor** - AI-powered development assistance
+- 🔤 **Font Manager** - Professional typography for optimal coding
+- ⚙️ **Settings & Configuration** - Fully customizable environment
 
 ## 🎯 Features
 
@@ -38,8 +50,8 @@ CodeMaster Pro is a comprehensive, cross-platform software development tool that
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
-cd Git-projs
+git clone https://github.com/cravotics/CodeMaster_Pro.git
+cd CodeMaster_Pro
 ```
 
 2. **Install dependencies:**
@@ -53,6 +65,7 @@ Create a `.env` file with your API keys:
 OPENAI_API_KEY=your_openai_key_here
 WEATHER_API_KEY=your_weather_api_key_here
 ANTHROPIC_API_KEY=your_anthropic_key_here
+GOOGLE_FONTS_API_KEY=your_google_fonts_key_here
 ```
 
 4. **Run the application:**
@@ -150,4 +163,4 @@ For questions or issues:
 
 ---
 
-**Built with ❤️ for developers who love to learn and build amazing things!** 
+**Built with ❤️ for developers who love to learn and build amazing things!**
